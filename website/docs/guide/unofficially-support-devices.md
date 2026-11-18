@@ -1,4 +1,5 @@
----
+4.19.127-gdd85d58b5-dirty
+#1 Fri Feb 13 17:23:54 CST 2026---
 description: Archived list of community-maintained non-GKI kernel sources with KernelSU support. Not reviewed by KernelSU developers; use at your own risk.
 ---
 
